@@ -1,4 +1,3 @@
-#Sachinam Srivastava
 from socket import *
 from threading import *
 client_socket=socket()
